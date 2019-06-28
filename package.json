@@ -31,7 +31,8 @@
     "react-icons": "^2.2.7",
     "remark-html": "^7.0.0",
     "styled-system": "^1.0.8",
-    "unified": "^7.0.0"
+    "unified": "^7.0.0",
+    "yarn": "^1.16.0"
   },
   "scripts": {
     "dev": "node_modules/.bin/gatsby develop",
